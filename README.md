@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<h2><img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2Fhindu-kashmiri-kashmiripandit-2vDJLn6LzoSSIJe3Xj&psig=AOvVaw0afIlVqqyAdaTQZbv8wOOb&ust=1705884690359000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPi55KOi7YMDFQAAAAAdAAAAABAU" width](https://cdn.discordapp.com/attachments/1070570657148043306/1198431698451435700/giphy.gif?ex=65bee17e&is=65ac6c7e&hm=9ac5b70905a829a1962ca21f7fae88a64a11c91f29bd428b0b7316a4773c4b22&)="30"/> नमस्ते (Namaste) I'm Vishal <img 
+<h2><img src="media.discordapp.net/attachments/1070570657148043306/1198431698451435700/giphy.gif?ex=65bee17e&is=65ac6c7e&hm=9ac5b70905a829a1962ca21f7fae88a64a11c91f29bd428b0b7316a4773c4b22&" width="30"/> नमस्ते (Namaste) I'm Vishal <img 
 
 </em></p>
 
