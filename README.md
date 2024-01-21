@@ -21,13 +21,6 @@ const vishal = {
 ```
 
 
-<h4>![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
-![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
-![img](https://custom-icon-badges.herokuapp.com/badge/Issue-red.svg?logo=issue)
-![img](https://custom-icon-badges.herokuapp.com/badge/Fork-orange.svg?logo=fork)
-![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit)
-![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
-</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal200305&label=Profile%20views&color=0e75b6&style=flat" alt="vishal200305" /> 
 <a href="https://github.com/Vishal200305?tab=followers"><img src="https://img.shields.io/github/followers/Vishal200305?label=Followers&style=social" alt="GitHub Badge">
 </a>
