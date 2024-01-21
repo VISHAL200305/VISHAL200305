@@ -1,7 +1,37 @@
 <h1 align="center">Hi 👋, I'm Vishal Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal200305&label=Profile%20views&color=0e75b6&style=flat" alt="vishal200305" /> </p>
+<h2><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2Fhindu-kashmiri-kashmiripandit-2vDJLn6LzoSSIJe3Xj&psig=AOvVaw0afIlVqqyAdaTQZbv8wOOb&ust=1705884690359000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPi55KOi7YMDFQAAAAAdAAAAABAU" width="30"/> नमस्ते (Namaste) I'm Vishal <img 
+
+</em></p>
+
+### aboutMe.js
+
+```js
+const vishal = {
+    name: "Vishal",
+    pronouns: "he" | "him",
+    location: "भारत | INDIA",
+    role: "frontend Developer for now",
+    askMeAbout: ["development", "workout", "cryptocurrency", "music", "coffee", "gaming"],
+    currentFocus: "Building scalable and efficient web applications",
+    funFact: "I enjoy coding with a cup of coffee and listening to music in the background.",
+    portfolio: "On the way",
+};
+```
+
+
+<h4>![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
+![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
+![img](https://custom-icon-badges.herokuapp.com/badge/Issue-red.svg?logo=issue)
+![img](https://custom-icon-badges.herokuapp.com/badge/Fork-orange.svg?logo=fork)
+![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit)
+![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
+</h4>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal200305&label=Profile%20views&color=0e75b6&style=flat" alt="vishal200305" /> 
+<a href="https://github.com/Vishal200305?tab=followers"><img src="https://img.shields.io/github/followers/Vishal200305?label=Followers&style=social" alt="GitHub Badge">
+</a>
+</p>
 
 - 🌱 I’m currently learning **frontend web development**
 
