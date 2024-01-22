@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<h2><img src="media.discordapp.net/attachments/1070570657148043306/1198431698451435700/giphy.gif?ex=65bee17e&is=65ac6c7e&hm=9ac5b70905a829a1962ca21f7fae88a64a11c91f29bd428b0b7316a4773c4b22&" width="30"/> नमस्ते (Namaste) I'm Vishal <img 
+<h2><img src="https://github.com/VISHAL200305/VISHAL200305/commit/998694c69e09a1535ff16b0f2eb73eba0d857405#commitcomment-137552605" width="30"/> नमस्ते (Namaste) I'm Vishal <img 
 
 </em></p>
 
