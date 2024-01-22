@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vishal Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<h2><img src="https://github.com/VISHAL200305/VISHAL200305/commit/998694c69e09a1535ff16b0f2eb73eba0d857405#commitcomment-137552605" width="30"/> नमस्ते (Namaste) I'm Vishal <img 
+<h2><img src="![giphy](https://github.com/VISHAL200305/VISHAL200305/assets/91008603/f405a31c-0b5f-4d40-a2b4-93254044dd19)
+        " width="30"/> नमस्ते (Namaste) I'm Vishal <img 
 
 </em></p>
 
